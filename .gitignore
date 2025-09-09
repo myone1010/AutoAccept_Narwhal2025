@@ -1,0 +1,60 @@
+# Gradle files
+.gradle/
+build/
+*/build/
+
+# Local configuration files (IDE)
+.idea/
+*.iml
+*.ipr
+*.iws
+out/
+
+# User-specific configs
+local.properties
+gradle.properties
+
+# OS-specific
+.DS_Store
+Thumbs.db
+
+# Log files
+*.log
+
+# Generated APKs / app bundles
+*.apk
+*.ap_
+*.aab
+
+# Keystore files (DO NOT SHARE!)
+*.jks
+*.keystore
+*.pem
+*.key
+*.p12
+
+# Android Studio captures
+captures/
+
+# NDK / CMake
+.externalNativeBuild/
+.cxx/
+
+# Jetpack Compose metrics
+compose-metrics/
+compose-reports/
+
+# Crashlytics / Firebase
+firebase/
+crashlytics-build.properties
+
+# Kotlin specific
+.kotlinc/
+
+# Misc
+.idea/caches/
+.idea/libraries/
+.idea/modules.xml
+.idea/workspace.xml
+.idea/navEditor.xml
+.idea/assetWizardSettings.xml

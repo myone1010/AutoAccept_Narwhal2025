@@ -1,0 +1,9 @@
+
+<resources>
+    <string name="app_name">AutoAccept Template</string>
+    <string name="accessibility_desc">On-device automation template using standard Android features. Does not bypass security checks.</string>
+    <string name="start">Start</string>
+    <string name="stop">Stop</string>
+    <string name="open_accessibility">Open Accessibility Settings</string>
+    <string name="open_notif_access">Open Notification Access</string>
+</resources>
